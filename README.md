@@ -15,8 +15,10 @@ To try out the game for yourself, follow these short, easy steps to get started:
 - Clone this repository
 - Download [Processing](https://processing.org/download) for your system. 
 - Open project titled **"bounce_attack,"** in Processing
-- On the app menu, select Sketch > Add Library, and search for Box2D.
-  - ![Menu Screenshot](./assets/processing_sshot.png)
+- On the app menu, select Sketch > Import Library > Add Library
+![Menu Screenshot](./assets/processing_sshot.png)
+- Search for Box2D
+![Search Screenshot](./assets/box2d.png)
 - Install the dependencies, then hit Run.
 
 Enjoy!
