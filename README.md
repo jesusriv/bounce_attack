@@ -12,10 +12,11 @@ The game begins with two ninjas head falling from the sky, and the player must b
 ## Try The Game For Yourself
 
 To try out the game for yourself, follow these short, easy steps to get started:
-- [ ] Clone this repository
-- [ ] Download [Processing](https://processing.org/download) for your system. 
-- [ ] Open project titled "bounce_attack" within Processing
-- [ ] On the app menu, select Sketch > Add Library, and search for Box2D. 
-- [ ] Install the dependencies, then hit Run.
+- Clone this repository
+- Download [Processing](https://processing.org/download) for your system. 
+- Open project titled **"bounce_attack,"** in Processing
+- On the app menu, select Sketch > Add Library, and search for Box2D.
+  - ![Menu Screenshot](./assets/processing_sshot.png)
+- Install the dependencies, then hit Run.
 
 Enjoy!
